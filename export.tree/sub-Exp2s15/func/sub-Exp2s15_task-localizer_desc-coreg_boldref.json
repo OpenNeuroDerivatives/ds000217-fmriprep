@@ -1,0 +1,5 @@
+{
+  "RawSources": [
+    "/node_tmp/work_dir/fmriprep/ds000217_sub-Exp2s15/fmriprep_23_2_wf/sub_Exp2s15_wf/bold_task_localizer_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/sub-Exp2s15_task-localizer_bold_valid_average.nii.gz"
+  ]
+}
